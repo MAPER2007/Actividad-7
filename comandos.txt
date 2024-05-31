@@ -1,0 +1,5 @@
+git clone- clona el repositorio
+push- sube el repositorio
+pull- baja el repositorio
+branch- crea una rama o se ven las ramas
+switch- cambia de rama 
